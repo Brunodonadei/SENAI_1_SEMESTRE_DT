@@ -1,0 +1,978 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
+
+
+:root{
+    --backgound: #000;
+    --red: #c20000;
+    --blue: #001f70;
+    --gradient: linear-gradient(270deg, #000000 50%, rgba(0, 0, 0, 0) 100%);
+
+    --font: 'Titillium Web', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--backgound);
+    font-family: var(--font);
+    font-size: 16px;
+}
+
+.header-top{
+    width: 100%;
+    height: 5em;
+    background-color: var(--backgound);
+}
+
+.header-top img{
+    width: 100%;
+    max-width: 21.18em;
+}
+
+.content{
+	width: 100%;
+	max-width: 75em;
+	height: 100%;
+	/* background-color: rosybrown; */
+    margin: auto;
+}
+
+.flex-spbt-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    width: 100%;
+    max-width: 50em;
+}
+
+.menu ul{
+    list-style-type: none;
+}
+
+.menu a{
+    text-decoration: none;
+    font-family: var(--font);
+    text-transform: uppercase;
+    color: white;
+    /* padding: 1.75em 2.68em; */
+    transition: 0.5s;
+    opacity: 0.6;
+    /* background-color: yellow; */
+}
+
+.menu a:hover{
+    /* background-color: var(--red); */
+    text-shadow: 0 0 5px #ffffff;
+    text-decoration: underline;
+    opacity: 1;
+}
+
+#menu-bars{
+    display: none;
+}
+
+.banner{
+    position: relative;
+}
+
+.banner img{
+    max-width: 100%;
+    height: 100%
+}
+
+.banner-content{
+    width: 100%;
+    /* background-color: rgba(204, 27, 160, 0.555); */
+    position: absolute;
+    bottom: 0;
+}
+
+.banner-container{
+    width: 100%;
+    max-width: 1920px;
+    height: 37.93em;
+    /* background-color: rgba(44, 26, 207, 0.589); */
+    bottom: 0;
+    /* left: 2em; */
+    position: absolute;
+    margin: auto;
+}
+
+.text-banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+    font-family: var(--font);
+    /* background-color: yellow; */
+
+    height: 37.93em;
+    width: 50%;
+    right: 0;
+}
+
+.text-banner h1{
+    font-size: 5.62em;
+    line-height: 1.3em;
+    color: #ffffff;
+}
+
+.text-banner p{
+    font-size: 1.87em;
+    color: #ffffff;
+}
+
+.text-banner button{
+    font-size: 1.87em;
+    color: #ffffff;
+    background-color: var(--red);
+    padding: 0.5em 1.4em;
+    border-radius: 0.62em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.5s;
+    border: 0.25rem solid var(--red);
+    overflow: hidden;
+}
+
+button:hover{
+    /* color: var(--red); */
+    /* background-color: #ffffff; */
+    transform: scale(1.05);
+    border: 0.15rem solid #ffffff;
+}
+
+.games ul{
+    padding: 0.1em 0.1em;
+    list-style-type: none;
+}
+
+.games a{
+    /* background-color: chartreuse; */
+    padding-top: 2.5em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.games img{
+    transition: all 0.4s;
+}
+
+.games img:hover{
+    transform: scale(1.1);
+    overflow: hidden;
+}
+
+.about{
+    height: 31.25em;
+    background-color: var(--blue);
+    position: relative;
+}
+
+.about-angulation{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.angulation{
+    height: 24.125em;
+    width: 100%;
+    background-color: var(--backgound);
+    transform: skewY(-5.2deg);
+}
+
+.container-about{
+    color: white;
+    position: absolute;
+    top: 0;
+}
+
+.content-about{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-about{
+    width: 50%;
+    text-align: justify;
+}
+
+.content-about img{
+    max-width: 31.875em;
+    transition: all 0.4s;
+}
+
+.text-about h2{
+    font-size: 2.1875em;
+}
+
+.text-about p{
+    font-size: 1.25em;
+}
+
+.content-about img:hover{
+    transform: skewY(-4deg);
+    /* transform: scale(1.1); */
+}
+
+.partidas{
+    height: 7.5em;
+    width: 100%;
+    background-color: var(--black);
+}
+.times-content{
+    height: 100%;
+    margin: auto;
+    width: 90%;
+    display: flex;
+    align-items:center ;
+    justify-content:space-around ;
+}
+.content-pequeno-1{
+    display: flex;
+    align-items: center;
+    height: auto;
+    width: 4.37em;
+    /* background-color: gray; */
+}
+.content-pequeno-1{
+    color: white;
+    font-family: var(--font);
+    font-size: 1.87em;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.content-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3.06em;
+    width: 23%;
+    overflow: hidden;
+    transition: 0.5s;
+    /* background-color: gray; */
+}
+.sk{
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.87em;
+    font-family: var(--font);
+    font-weight: bolder;
+}
+.vs{
+    color: white;
+    font-size: 1.87em;
+    font-family: var(--font);
+    font-weight: bolder;
+}
+.content-em-breve{
+    display: flex;
+    align-items: center;
+    height: 5em;
+    width: 93px;
+    /* background-color: gray; */
+}
+.content-em-breve p{
+    font-family: var(--font);
+    font-size: 1.87em;
+    color: white;
+    text-transform: uppercase;
+}
+.traço{
+    color: white;
+    font-size: 70px;
+}
+.content-2:hover{
+    transform: scale(1.1);
+}
+.news{
+    width: 100%;
+    /* max-width: 87.5rem; */
+    height: 50rem;
+    background-color: #535353;
+}
+
+.news h2{
+    color: white;
+    font-size: 35px;
+    margin-left: 1.8em;
+    padding-top: 1rem;
+
+}
+
+.container-card{
+    width: 60.375rem;
+    height: 80%;
+    /* background-color: var(--red); */
+    margin: auto;
+    position: relative;
+}
+
+.divisa{
+    width: 100%;
+    height: 45%;
+    /* background-color: violet; */
+}
+
+.divisao{
+    width: 100%;
+    height: 20.25rem;
+    /* background-color: green; */
+    position: absolute;
+    bottom: 0;
+}
+
+.coluna-card{
+    display: flex;
+    align-items: space-between;
+    justify-content: flex-start;
+    margin-top: 1em;
+    flex-wrap: wrap;
+
+}
+
+.card img{
+    width: 12.5rem;
+    /* max-width: 12.5rem; */
+}
+
+.card{
+    width: 12.5rem;
+    height: 18.625rem;
+    margin-right: 6em;
+    /* margin-bottom: 2em; */
+
+    background: linear-gradient(0deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 5px 5px 5px 0px black;
+    transition: all 0.3s;
+}
+
+.text-card{
+    font: var(--font);
+    color: white;
+    text-align: justify;
+    font-size: 14px;
+    margin: 0 0.5em;
+}
+
+.text-card h3{
+    text-transform: uppercase;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.tabela{
+    width: 14.5rem;
+    height: 39.50rem;
+    /* background: linear-gradient(0deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%); */
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+
+    position: absolute;
+    right: -10em;
+    top: 0;
+    flex-wrap: wrap;
+}
+
+.games-tabela{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    /* background-color: yellowgreen; */
+
+    font-size: 16px;
+    width: 14.5rem;
+    height: 4em;
+    margin-top: 1.5em;
+    padding: 0 1em;
+}
+
+.text-tabela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    /* background-color: var(--red); */
+
+    font-size: 16px;
+    width: 14.5rem;
+    height: 2em;  
+}
+
+.próximos-jogos h3{
+    color: white;
+    font-size: 35px;
+    width: 10em;
+    margin-left: 30em;
+    position: absolute;
+    top: -2em;
+    right: -7.9em;
+}
+
+.rodape{
+    width: 100%;
+    height: 13.125rem;
+    background-color:var(--backgound);
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.content-footer{
+    width: 100%;
+    height: 100%;
+    margin: 10px 10%;
+}
+
+.superior-footer{
+    width: 100%;
+    height: 75%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links-uteis-footer{
+    width: 30%;
+}
+
+.links-uteis-footer h4{
+    color: white;
+    text-decoration: underline;
+}
+
+.links-uteis-footer a{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.links-uteis-footer a:hover{
+    text-decoration: underline;
+}
+
+.mapa-content ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: white;
+    font-size: 12px;
+    list-style-type: none;
+}
+
+.mapa-content a{
+    text-decoration: none;
+}
+
+.mapa-content h4{
+    margin-left: 0.8rem;
+}
+
+.mapa-site-footer h4{
+    color: white;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.mapa-site-footer ul{
+    display: flex;
+}
+
+.mapa-site-footer a{
+    color: white;
+    margin: 10px;
+    transition: 0.2s;
+}
+
+.mapa-site-footer a:hover{
+    text-decoration: underline;
+}
+
+.social-medias-footer{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.social-medias-footer h4{
+    color: white;
+    padding: 7px;
+    text-decoration: underline;
+}
+
+.redes-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.links-redes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links-redes img{
+    transition: 0.2s;
+}
+
+.links-redes img:hover{
+    transform: scale(1.2);
+}
+
+.line-footer{
+    width: 100%;
+    border: 1px solid #cdcdcd;
+    background-color: #cdcdcd;
+    margin: 25px 0;
+}
+
+.inferior-footer{
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-footer{
+    width: 30%;
+}
+
+.logo-footer img{
+    width: 100%;
+    max-width: 250px;
+    transition: 0.2s;
+}
+
+.logo-footer img:hover{
+    transform: scale(1.1);
+}
+
+.direitos-footer{
+    color: white;
+}
+
+.direitos-footer span{
+    transition: all 0.3s;
+    opacity: 0.7;
+}
+
+.direitos-footer span:hover{
+    color: var(--red);
+    opacity: 1.0;
+}
+
+.buttons-footer{
+    width: 30%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.buttons-footer ul{
+    display: flex;
+}
+
+.buttons-footer a{
+    color: white;
+    padding: 10px;
+}
+
+.buttons-footer a:hover{
+    text-decoration: underline;
+}
+
+.btnMenu{
+    display: none;
+}
+
+.menu {
+    display: block;
+}
+
+
+
+/* até 1199px */
+@media screen and (max-width: 74.93em){
+    .header-top img{
+        width: 15em;
+        margin-left: 2em;
+    }
+
+    .menu ul{
+        justify-content: space-around;
+        width: 90%;
+        /* background-color: blue; */
+        margin-left: 3em;
+    }
+
+    .text-banner h1{
+        /* background-color: blueviolet; */
+        font-size: 4.62em;
+    }
+
+    .games{
+        height: 3em;
+        /* background-color: blue; */
+    }
+
+    .games img{
+        width: 50%;
+    }
+
+    .content ul{
+        margin-left: 2em;
+    }
+
+    .text-about{
+        /* background-color: lime; */
+        height: 25em;
+        width: 50em;
+        margin-top: 3.5em;
+        text-align: justify;
+    }
+
+    .content-about img{
+        transform: scale(0.6);
+        position: absolute;
+        right: -18em;
+        opacity: 0.8;
+        width: 100%;
+        
+    }
+
+    .content-about img:hover{
+        transform: scale(0.7);
+    }
+
+    .partida{
+        width: 95%;
+        max-width: 65.93em;
+    }
+
+    .games-aovivo h2{
+        font-size: 1em;
+    }
+
+    .games-embreve{
+        margin-right: 13.5em;
+    }
+
+    .games-embreve h2{
+        font-size: 1em;
+    }
+
+    .games-aovivo h2{
+        font-size: 1em;
+    }
+
+    .games-aovivo p{
+        font-size: 20px        
+    }
+
+    .games-embreve p{
+        font-size: 20px
+
+    }
+
+    .tabela{
+        display: none;
+    }
+
+    .próximos-jogos h3{
+        display: none;
+    }
+
+   
+
+
+    
+    
+}
+
+/* até 991px */
+@media screen and (max-width: 61.93em){
+
+    .banner{
+        height:30em;
+        position: relative;
+    }
+
+    .banner-container{
+        /* background-color: yellowgreen; */
+        position: absolute;
+        top: 0;
+        
+    }
+
+    .banner-content{
+        /* background-color: yellow; */
+        height: 80%;
+    }
+
+    .text-banner{
+        height: 80%;
+        bottom: 8em;
+        margin-bottom: 8em;
+        font-size: 50%;
+        /* background-color: violet; */
+    }
+
+    .about img{
+        display: none;
+    }
+
+    .games{
+        height: 5em;
+        position: relative;
+    }
+
+    .games img{
+        display: flex;
+        align-items: flex-start;
+        margin-left: 1.5em;
+    }
+
+    .news{
+        height: 800px;
+    }
+
+    .container-card{
+        height: 700px;
+        width: 85%;
+        max-width: 57.93em;
+    }
+
+    .divisa{
+        height: 450px;
+        width: 85%;
+    }
+
+    .coluna-card{
+        height: 450px;
+        width: 85%;
+        flex-direction: column;
+    }
+
+    .coluna-card{
+        display: flex;
+        align-items: space-between;
+        justify-content: flex-start;
+        /* margin-top: 1em; */
+        flex-wrap: wrap;
+    
+    }
+    
+    .card img{
+        width: 10.5rem;
+        /* max-width: 12.5rem; */
+    }
+    
+    .card{
+        width: 10.5rem;
+        height: 16.625rem;
+        margin-right: 6em;
+        /* margin-bottom: 2em; */
+    
+    }
+    
+
+}    
+
+
+/* até 767px */
+@media screen and (max-width: 47.93em){
+    
+    .header-top{
+        position: fixed;
+        z-index: 999;
+    }
+
+    .text-banner{
+        font-size: 0.7em;
+        right: 14em;
+        top: 5em;
+    }
+    .text-banner h1{
+        width: 350px;
+        /* background-color: blueviolet; */
+        margin-left: 1em;
+    }
+
+    .text-banner p{
+        width: 350px;
+        margin-left: 2em;
+    }
+
+    .about{
+        height: 600px;
+    }
+
+    .text-about{
+        width: 100%;
+    }
+
+    .news{
+        height: 850px;
+    }
+
+    .news h2{
+        margin-left: 6.5em;
+    }
+
+    .container-card{
+        /* background-color: var(--red); */
+        height: 70%;
+        width: 85%;
+        max-width: 41.93em;
+        /* margin-left: 10px; */
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    #card2{
+        display: none;
+    }
+
+    .divisa{
+        /* background-color: yellowgreen; */
+        width: 100%;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-left: 2em;
+    }
+
+    .card{
+        margin: auto;
+    }
+
+    .content-pequeno-1{
+        display: none;
+    }
+    
+    #meusLinks{
+        width: 100%;
+        height: 350px;
+        background-color: rgb(26, 23, 23);
+        position: absolute;
+        top: 60px;
+        right: 0;
+        flex-direction: column;
+        justify-content: space-around;
+        transition: all 0.4s ease;
+    }
+
+   .menu ul a:hover{
+        background-color: unset;
+    }
+        
+    .btnMenu{
+        display: block;
+        position: fixed;
+        z-index: 999;
+        right: 2em;
+        top: 2em;
+        color: white;
+        cursor: pointer;
+    }
+    
+}
+
+/* até 575px */
+@media screen and (max-width: 35.93em){
+
+    #meusLinks{
+        right: 0;
+    }
+
+    
+    .banner{
+        background-color: #000000;
+        background-image: linear-gradient(315deg, #000000 0%, #b82e1f 74%);
+    }
+    
+    .banner img{
+        display: none;
+    }
+    
+    .banner-container{
+        /* background-color: cadetblue; */
+        /* width: 100%; */
+    }
+
+    .text-banner{
+        /* background-color: burlywood; */
+        font-size: xx-small;
+        left: 13em;
+        /* margin-left: 10em; */
+    }
+
+    /* .text-banner button{
+        right: 5em;
+    } */
+    
+    .games{
+        display: none;
+    }
+    
+    .partidas{
+        display: none;
+    }
+    
+    .news h2{
+        margin-left: 3.5em;
+    }
+    
+    #card3{
+        display: none;
+    }
+    
+    .about{
+        height: 1000px;
+    }
+    .links-uteis-footer{
+        display: none;
+    }
+    
+    .direitos-footer{
+        display: none;
+    }
+    
+    .logo-footer img{
+        width: 500px;
+        margin: 0 10px;
+    }
+    
+    .btnMenu{
+        right: 5em;
+        top: 2em;
+    }
+    
+}
+
+

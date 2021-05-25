@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.exe
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.deps.json
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.dll
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\bin\Debug\netcoreapp3.1\ExemploAula.pdb
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.dll
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.pdb
+C:\Users\Pichau\OneDrive\Desktop\ExemploAula\obj\Debug\netcoreapp3.1\ExemploAula.genruntimeconfig.cache

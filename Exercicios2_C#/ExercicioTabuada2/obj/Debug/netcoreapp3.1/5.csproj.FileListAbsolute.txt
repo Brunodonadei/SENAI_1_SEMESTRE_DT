@@ -1,0 +1,13 @@
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.exe
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.deps.json
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.dll
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\bin\Debug\netcoreapp3.1\5.pdb
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.dll
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.pdb
+C:\Users\Elaine\Desktop\Exercicios senai 1-7\AtividadeSenai5\obj\Debug\netcoreapp3.1\5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.exe
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.deps.json
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.dll
+C:\Users\Elaine\Desktop\Exercício nota\bin\Debug\netcoreapp3.1\Exercício nota.pdb
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.dll
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.pdb
+C:\Users\Elaine\Desktop\Exercício nota\obj\Debug\netcoreapp3.1\Exercício nota.genruntimeconfig.cache

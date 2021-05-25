@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.exe
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.deps.json
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.dll
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\bin\Debug\netcoreapp3.1\Atividade Passagens áereas.pdb
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.dll
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.pdb
+C:\Users\Pichau\OneDrive\Desktop\Atividade Passagens áereas\obj\Debug\netcoreapp3.1\Atividade Passagens áereas.genruntimeconfig.cache

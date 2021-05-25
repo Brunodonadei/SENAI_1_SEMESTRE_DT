@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\bin\Debug\netcoreapp3.1\POO_Encapsulamento.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Encapsulamento\obj\Debug\netcoreapp3.1\POO_Encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\bin\Debug\netcoreapp3.1\Desafio 2 - Jogador.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 2 - Jogador\obj\Debug\netcoreapp3.1\Desafio 2 - Jogador.genruntimeconfig.cache

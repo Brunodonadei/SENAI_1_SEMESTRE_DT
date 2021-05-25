@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\bin\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Sobrecarga\obj\Debug\netcoreapp3.1\POO_Polimorfismo_Sobrecarga.genruntimeconfig.cache

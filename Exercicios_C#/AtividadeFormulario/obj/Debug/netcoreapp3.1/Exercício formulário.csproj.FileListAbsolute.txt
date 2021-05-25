@@ -1,0 +1,13 @@
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.exe
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.deps.json
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.dll
+C:\Users\Elaine\Desktop\Exercício formulário\bin\Debug\netcoreapp3.1\Exercício formulário.pdb
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.dll
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.pdb
+C:\Users\Elaine\Desktop\Exercício formulário\obj\Debug\netcoreapp3.1\Exercício formulário.genruntimeconfig.cache

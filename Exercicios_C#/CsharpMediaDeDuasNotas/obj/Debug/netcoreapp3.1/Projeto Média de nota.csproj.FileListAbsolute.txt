@@ -1,0 +1,13 @@
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.exe
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.deps.json
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.runtimeconfig.json
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.dll
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\bin\Debug\netcoreapp3.1\Projeto Média de nota.pdb
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.dll
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.pdb
+C:\Users\Elaine\Desktop\Backend 3\Projeto Média de nota\obj\Debug\netcoreapp3.1\Projeto Média de nota.genruntimeconfig.cache

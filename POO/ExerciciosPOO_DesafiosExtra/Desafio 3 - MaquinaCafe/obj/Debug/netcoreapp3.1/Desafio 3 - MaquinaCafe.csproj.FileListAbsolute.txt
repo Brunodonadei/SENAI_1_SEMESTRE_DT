@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\bin\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafio 3 - MaquinaCafe\obj\Debug\netcoreapp3.1\Desafio 3 - MaquinaCafe.genruntimeconfig.cache

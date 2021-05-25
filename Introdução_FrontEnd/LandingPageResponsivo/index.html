@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Landing Page</title>
+        <link rel="stylesheet" href="css/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/c92e1ab04f.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <header class="topo">
+            <nav class="menu">
+                <ul id="meusLinks">
+                    <li><a href="#">Início</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Desafios</a></li>
+                    <li><a href="#">Endereço</a></li>
+                </ul>
+                <a href="#" class="btnMenu" onclick="botaoDoMenu()">
+                    <i class="fas fa-bars"></i>
+                </a>
+            </nav>
+        </header>
+        <!-- fim do topo -->
+        <section class="banner">
+            <div class="content alinhando-abaixo">
+                <div class="banner-text">
+                    <h1>Desenvolvimento de Sistemas 2020</h1>
+                    <p>SENAI <span>Informática</span></p>
+                    <img src="img/mouse-down.png" alt="Desenho de um mouse amarelo com seta para baixo">
+                </div>      
+            </div>
+        </section>
+        <section class="sobre">
+            <div class="content">
+                <h2>Sobre os Projetos</h2>
+                <article class="artigo-sobre">
+                    <img src="img/imagem-seção-sobre.jpg" alt="Homem exibindo um objeto para um grupo de pessoas">
+                    <div class="artigo-text-sobre">
+                        <h3>Participantes</h3>
+                        <h3>mais de 80 alunos organizados em 16 grupos</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta earum, quia illum totam deserunt magnam itaque illo magni voluptatibus quaerat? Eum aut voluptatem quae natus excepturi quaerat repellat modi fuga! Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia odit aliquam cum reprehenderit nesciunt temporibus officiis aspernatur provident, aperiam consequuntur assumenda quisquam explicabo deserunt eos, in laborum. Dolorum, est distinctio.</p>
+                    </div>
+                </article>
+            </div>
+        </section>
+        <section class="info">
+            <div class="content info-flex">
+                <div class="info-card">
+                    <h4>Local</h4>
+                    <p>São Paulo</p>
+                </div>
+                <div class="info-card">
+                    <h4>Duração</h4>
+                    <p>90 Dias</p>
+                </div>
+                <div class="info-card">
+                    <h4>Desafios</h4>
+                    <p>+30 Desafios</p>
+                </div>
+        </section>
+        <section class="endereco">
+            <div class="content alinhamento-endereco">
+                <div>
+                    <h2>Endereço</h2>
+                    <div class="end-text">
+                            <p>Alameda Barão de Limeira, 539<br>
+                                Santa Cecília, São Paulo - SP<br>
+                                CEP 01202-001
+                            </p>
+                        <img src="img/mapa.png" alt="Mapa indicando a localização do SENAI de informática">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="rodape">
+            <div class="content alinhamento-endereco">
+                <p>Copyrigth © 2020 - Escola SENAI de Informática</p>
+
+
+            </div>
+        </footer>
+        <script>
+            function botaoDoMenu() {
+              var ulDoMenu = document.getElementById("meusLinks");
+              if (ulDoMenu.style.display === "flex") {
+                ulDoMenu.style.display = "none";
+              } else {
+                ulDoMenu.style.display = "flex";
+              }
+            }
+            </script>
+    </body>
+</html>

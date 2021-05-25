@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\bin\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Abstracao\obj\Debug\netcoreapp3.1\POO_Abstracao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.exe
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.deps.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\bin\Debug\netcoreapp3.1\Desafio 1 - Elevador.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.dll
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.pdb
+C:\Users\Pichau\OneDrive\Desktop\POO_Polimorfismo_Desafios\Desafios_Extra\Desafio 1 - Elevador\obj\Debug\netcoreapp3.1\Desafio 1 - Elevador.genruntimeconfig.cache

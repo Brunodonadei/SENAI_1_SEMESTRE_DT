@@ -1,0 +1,26 @@
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.csprojAssemblyReference.cache
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.AssemblyInfoInputs.cache
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.AssemblyInfo.cs
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.exe
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.deps.json
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.runtimeconfig.json
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.runtimeconfig.dev.json
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.dll
+C:\Users\giian\Desktop\23.11 atts\atividade 1\bin\Debug\netcoreapp3.1\atividade 1.pdb
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.dll
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.pdb
+C:\Users\giian\Desktop\23.11 atts\atividade 1\obj\Debug\netcoreapp3.1\atividade 1.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.exe
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.deps.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.dll
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\bin\Debug\netcoreapp3.1\atividade 1.pdb
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.dll
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.pdb
+C:\Users\Pichau\OneDrive\Desktop\Lista de exercícios senai\1\obj\Debug\netcoreapp3.1\atividade 1.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\Elaine\Desktop\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csprojAssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\Pichau\OneDrive\Desktop\Atividades SENAI\Backend\Console\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache

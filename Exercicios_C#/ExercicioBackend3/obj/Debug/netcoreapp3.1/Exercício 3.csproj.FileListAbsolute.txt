@@ -1,0 +1,26 @@
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.exe
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.deps.json
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.dll
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.pdb
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.dll
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.pdb
+C:\Users\Elaine\Desktop\Exercícios Classroom\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.genruntimeconfig.cache
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.exe
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.deps.json
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.dll
+C:\Users\Elaine\Desktop\Exercício 3\bin\Debug\netcoreapp3.1\Exercício 3.pdb
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.dll
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.pdb
+C:\Users\Elaine\Desktop\Exercício 3\obj\Debug\netcoreapp3.1\Exercício 3.genruntimeconfig.cache

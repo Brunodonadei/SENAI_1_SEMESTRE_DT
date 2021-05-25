@@ -1,0 +1,13 @@
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.exe
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.deps.json
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.runtimeconfig.json
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.runtimeconfig.dev.json
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.dll
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\bin\Debug\netcoreapp3.1\Exercício nome de usuário e senha.pdb
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.csprojAssemblyReference.cache
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.AssemblyInfoInputs.cache
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.AssemblyInfo.cs
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.csproj.CoreCompileInputs.cache
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.dll
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.pdb
+C:\Users\Elaine\Desktop\Exercício nome de usuário e senha\obj\Debug\netcoreapp3.1\Exercício nome de usuário e senha.genruntimeconfig.cache
